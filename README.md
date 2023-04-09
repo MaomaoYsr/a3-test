@@ -5,7 +5,6 @@
 ```
 String inputFilePath = "input/test.txt";（`test.txt`为测试题目）
 String outputFilePath = "output.txt";
-
 ```
 4. 运行结束后你会在菜单页下面看到生成的文件
 5. 运用compare_files.py进行下面的比较
