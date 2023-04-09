@@ -11,9 +11,9 @@ String outputFilePath = "output.txt";
 5. 运用compare_files.py进行下面的比较
 
 
-# 如何使用 compare_files 函数比较文本文件
+# 如何使用 compare_file 函数比较文本文件
 
-1. 函数名称：`compare_files`
+1. 函数名称：`compare_file`
 2. 参数：
    * `input.txt`：第一个要比较的文本文件名
    * `standard.txt`：标准输出文件名 （原文本：`o.txt`)
@@ -24,7 +24,7 @@ String outputFilePath = "output.txt";
 
 1. 按照以下方式调用函数：
 ```
-compare_files("file1.txt", "file2.txt")
+compare_file("file1.txt", "file2.txt")
 ```
 2. 其中，`file1.txt` 和 `file2.txt` 分别是要比较的两个文本文件的文件名。
    默认为`input.txt` 和 `standard.txt`比较，如果需要修改请放入自己的文件名。
