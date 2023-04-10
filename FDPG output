@@ -1,0 +1,131 @@
+//<FrequencyDocumentPG> getTopNWords DESCENDING
+the
+and
+to
+i
+of
+macbeth
+a
+that
+d
+in
+you
+s
+my
+is
+not
+with
+it
+his
+be
+he
+have
+your
+but
+our
+what
+//<FrequencyDocumentPG> getTopNWords ASCENDING
+cancel
+hall
+pretend
+imperfect
+commends
+unprovokes
+legs
+warrant
+sake
+untitled
+hemlock
+temper
+statute
+poorly
+pronounc
+perseverance
+turk
+gold
+pies
+commission
+quiet
+reigns
+elves
+address
+salt
+//<FrequencyDocumentPG> getTopNWordsEnumerated DESCENDING
+
+730 the
+571 and
+384 to
+380 i
+358 of
+287 macbeth
+277 a
+238 that
+237 d
+231 in
+206 you
+202 s
+192 my
+189 is
+165 not
+159 with
+153 it
+151 his
+141 be
+124 he
+123 have
+122 your
+121 but
+119 our
+116 what
+
+//<FrequencyDocumentPG>getTopNFrequencyWords DESCENDING
+
+ 730	the
+
+ 571	and
+
+ 384	to
+
+ 380	i
+
+ 358	of
+
+ 287	macbeth
+
+ 277	a
+
+ 238	that
+
+ 237	d
+
+ 231	in
+
+ 206	you
+
+ 202	s
+
+ 192	my
+
+ 189	is
+
+ 165	not
+
+ 159	with
+
+ 153	it
+
+ 151	his
+
+ 141	be
+
+ 124	he
+
+ 123	have
+
+ 122	your
+
+ 121	but
+
+ 119	our
+
+ 116	what
