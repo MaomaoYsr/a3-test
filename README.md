@@ -31,3 +31,5 @@ compare_file("file1.txt", "file2.txt")
 3. 函数会逐行比较两个文件，并打印出差异行号和具体差异。如果两个文件长度不同，则也会打印出差异。
 4. 如果两个文件相同，则函数会打印出 "文件 {file1} 和 {file2} 是相同的"。
 
+# 新增literatureStats Junit test
+原理和`a3algorithms`相同，使用时放入`tests`文件夹，直接运行，本次更新了10个自动测试。
