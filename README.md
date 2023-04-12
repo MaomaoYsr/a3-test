@@ -33,3 +33,4 @@ compare_file("file1.txt", "file2.txt")
 
 # 新增literatureStats Junit test
 原理和`a3algorithms`相同，使用时放入`tests`文件夹，直接运行，本次更新了10个自动测试。
+- update : 另更新了文件3，现已支持所有类型的基本测试。
